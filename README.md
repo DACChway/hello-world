@@ -1,2 +1,2 @@
-# hello-world
-My first repository
+#About Me 
+My Name is Hunter and I enjoy video game design
